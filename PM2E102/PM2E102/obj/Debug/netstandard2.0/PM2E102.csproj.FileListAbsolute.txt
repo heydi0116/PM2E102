@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\bin\Debug\netstandard2.0\PM2E102.deps.json
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\bin\Debug\netstandard2.0\PM2E102.dll
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\bin\Debug\netstandard2.0\ref\PM2E102.dll
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\bin\Debug\netstandard2.0\PM2E102.pdb
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\PM2E102.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\PM2E102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\PM2E102.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\PM2E102.AssemblyInfo.cs
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\PM2E102.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\PM2E102.dll
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\ref\PM2E102.dll
+C:\Users\Dell\Desktop\PM2E102\PM2E102\PM2E102\obj\Debug\netstandard2.0\PM2E102.pdb

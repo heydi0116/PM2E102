@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3426b827-c10c-4acc-9d89-64d804637289": {
+      "ProjectGuid": "3426b827-c10c-4acc-9d89-64d804637289",
+      "DisplayName": "PM2E102",
+      "ColorIndex": 0
+    },
+    "286b2845-f7b2-46a4-a07b-1400343cfb47": {
+      "ProjectGuid": "286b2845-f7b2-46a4-a07b-1400343cfb47",
+      "DisplayName": "PM2E102.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

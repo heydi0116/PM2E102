@@ -9,8 +9,8 @@
         <Button x:Name="TomarFoto" Text="Tomar Foto" Clicked="TomarFoto_Clicked"/>
         <Button x:Name="Galeria" Text="Agregar Foto" Clicked="Galeria_Clicked"/>
 
-        <Entry x:Name="lblLat" Text="{Binding latitudC}"/>
-        <Entry x:Name="lblLon" Text="{Binding longitudC}"/>
+        <Label x:Name="lblLat" Text="{Binding latitudC}"/>
+        <Label x:Name="lblLon" Text="{Binding longitudC}"/>
         <Entry x:Name="txtDes" Text="{Binding descripcionC}" Placeholder="Ingrese su descripción"/>
 
         <Button x:Name="Agregar" Text="Agregar" Clicked="Agregar_Clicked"/>

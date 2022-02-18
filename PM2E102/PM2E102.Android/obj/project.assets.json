@@ -3959,24 +3959,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Users\\crist\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\PM2E102\\PM2E102\\PM2E102.Android\\PM2E102.Android.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\Source\\Repos\\PM2E102\\PM2E102\\PM2E102.Android\\PM2E102.Android.csproj",
       "projectName": "PM2E102.Android",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\PM2E102\\PM2E102\\PM2E102.Android\\PM2E102.Android.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\PM2E102\\PM2E102\\PM2E102.Android\\obj\\",
+      "projectPath": "C:\\Users\\crist\\Source\\Repos\\PM2E102\\PM2E102\\PM2E102.Android\\PM2E102.Android.csproj",
+      "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\crist\\Source\\Repos\\PM2E102\\PM2E102\\PM2E102.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3990,8 +3990,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\Dell\\Desktop\\PM2E102\\PM2E102\\PM2E102\\PM2E102.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\PM2E102\\PM2E102\\PM2E102\\PM2E102.csproj"
+            "C:\\Users\\crist\\Source\\Repos\\PM2E102\\PM2E102\\PM2E102\\PM2E102.csproj": {
+              "projectPath": "C:\\Users\\crist\\Source\\Repos\\PM2E102\\PM2E102\\PM2E102\\PM2E102.csproj"
             }
           }
         }

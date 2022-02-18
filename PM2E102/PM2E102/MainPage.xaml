@@ -5,10 +5,10 @@
 
     <StackLayout>
 
-        <Image x:Name="foto" Source="{Binding imageC}"/>
+        <Image x:Name="foto" Source="{Binding imageC}"  HeightRequest="200"/>
         <Button x:Name="TomarFoto" Text="Tomar Foto" Clicked="TomarFoto_Clicked"/>
         <Button x:Name="Galeria" Text="Agregar Foto" Clicked="Galeria_Clicked"/>
-
+        <Label x:Name="lblCod" Text="{Binding id}"/>
         <Label x:Name="lblLat" Text="{Binding latitudC}"/>
         <Label x:Name="lblLon" Text="{Binding longitudC}"/>
         <Entry x:Name="txtDes" Text="{Binding descripcionC}" Placeholder="Ingrese su descripción"/>
